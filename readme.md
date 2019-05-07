@@ -78,6 +78,11 @@ Default: `false`
 
 Whether the check should be performed case sensitive.
 
+## Related
+
+- [git-is-branch-protected-cli](https://github.com/tobiasbueschel/git-is-branch-protected-cli) - CLI for this project.
+- [git-push-pr](https://github.com/tobiasbueschel/git-push-pr) - Push and open pull request in your default browser.
+
 ## License
 
 MIT © [Tobias Büschel](https://github.com/tobiasbueschel)
